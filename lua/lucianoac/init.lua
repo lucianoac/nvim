@@ -1,2 +1,2 @@
 require("lucianoac.remap")
-print("hello from lucianoac")
+require("lucianoac.set")
